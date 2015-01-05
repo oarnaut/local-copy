@@ -1,5 +1,5 @@
-oarnaut
-bamboozled
-rintintin
-ruxin
-bananaman
+oarnaut = sanjay
+bamboozled = andre
+rintintin = ryan
+ruxin = rodney
+bananaman = steve
